@@ -7,7 +7,6 @@ Example of  how to get a Node.js app into a Docker container
 >- Docker 
 # Quickstart
 ---
-## Usage without docker
 
 ## Building image
 
